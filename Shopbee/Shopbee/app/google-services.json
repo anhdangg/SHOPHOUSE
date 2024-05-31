@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1225887546",
+    "project_id": "shopbee-45c62",
+    "storage_bucket": "shopbee-45c62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1225887546:android:236cf74f72d2f48fc44a03",
+        "android_client_info": {
+          "package_name": "com.example.shopbee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfZF30kwWqByB-M-Uq-3U4A9GTPEpoIOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
